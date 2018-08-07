@@ -35,8 +35,19 @@
 % hier geht das eigentliche Dokument los
 
 Der Emulsions Pflegekoffer darf nur von Drehbank Betreuern benutzt werden.
-\section[PH Wert]{PH Wert}
-den PH Wert mit den Messstreifen messen, der PH Wert sollte zwischen 8-10 liegen
+\section[KSS Werte messen]{KSS Werte messen}
+die PH, Nitrat, Nitrid und Wasserhärte Werte mit den jeweiligen Messstreifen messen.
+folgende Werte sollten eingehalten werden:
+\begin{itemize}
+\item PH-Wert: zwischen 8 und 10 (auf keinen Fall darf er sauer werden)
+\item Nitrat Wert: <50 mg/l
+\item Nitrid Wert: <20 mg/l
+\item Wasserhärte: zwischen 10 und 15°dH (niedriger ist nicht schlimm, kann dann aber schäumen)
+\end{itemize}
+\section[KSS Konzentration messen]{KSS Konzentration messen}
+Den Refraktometer aus seiner Tasche nehmen, die Abdeckung hochklappen, mit der Pipette einen Tropfen KSS auf die blaue Scheibe tropfen und die Abdeckung wieder herunter klappen.
+Mit einem Auge durch den Refraktometer gegen eine Lichtquelle schauen, es sollte jetzt eine klare Linie erkennbar sein, an dieser kann man die Konzentration des KSS Konzentrats ablesen.
+Die Konzentration sollte 5-10% betragen, ist sie niedriger, so kann man etwas KSS Konzentrat hinzugeben (Konzentrat nicht direkt ins Becken, erst mit Wasser mischen).
 
 \ccLicense{Emulsions Pflegekoffer Anleitung}{Emulsions Pflegekoffer Anleitung}
 
