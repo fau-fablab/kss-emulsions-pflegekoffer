@@ -1,0 +1,2 @@
+TARGET=Anleitung_Pflegekoffer
+include fablab-document/Makefile.include
