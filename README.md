@@ -3,7 +3,7 @@
 Anleitung des [FAU FabLab](https://fablab.fau.de) für einen KSS-Emulsions-Pflegekoffer (für das Kühlschmiersystem der Drehbank).
 
 Die neueste Version gibt es hier zum Download als PDF:
-* [Einweisung](https://brain.fablab.fau.de/build/kss-emulsions-pflegekoffer/Anleitung_Pflegekoffer.pdf)
+* [Anleitung](https://brain.fablab.fau.de/build/kss-emulsions-pflegekoffer/Anleitung_Pflegekoffer.pdf)
 
 auschecken
 ----------
